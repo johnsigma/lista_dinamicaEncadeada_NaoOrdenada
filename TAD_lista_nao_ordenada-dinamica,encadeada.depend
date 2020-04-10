@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1556480988 source:c:\users\johnz\desktop\programação\aed1\lab5\tad_lista_não_ordenada(dinâmica,encadeada)\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1556485159 c:\users\johnz\desktop\programação\aed1\lab5\tad_lista_não_ordenada(dinâmica,encadeada)\lista.h
+
+1556485159 source:c:\users\johnz\desktop\programação\aed1\lab5\tad_lista_não_ordenada(dinâmica,encadeada)\user.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"lista.h"
+
+1558411685 source:c:\users\johnz\desktop\programação\aed1\trabalho1\04\tad_lista_não_ordenada(dinâmica,encadeada)\user.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"lista.h"
+
+1556485159 c:\users\johnz\desktop\programação\aed1\trabalho1\04\tad_lista_não_ordenada(dinâmica,encadeada)\lista.h
+
+1558411595 source:c:\users\johnz\desktop\programação\aed1\trabalho1\04\tad_lista_não_ordenada(dinâmica,encadeada)\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
